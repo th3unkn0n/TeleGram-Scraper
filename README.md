@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/th3unkn0n/TeleGram-Scraper/master/.image/20191203_205322.jpg" width="300" height="120">
+  <img src="https://raw.githubusercontent.com/th3unkn0n/TeleGram-Scraper/master/.image/20191203_205322.jpg" width="300" height="150">
 </p>
 
 <p align="center"><img src="https://img.shields.io/badge/Version-1.0-brightgreen"></p>
