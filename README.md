@@ -9,8 +9,8 @@
 * Go to my.telegram.org  and log in.
 * Click on API development tools and fill the required fields.
 * put app name you want & select other in platform Example :
+* copy "api_id" & "api_hash" after clicking create app ( will be used in setup.py )
 <p><img src="https://i1.wp.com/python.gotrained.com/wp-content/uploads/2019/01/desc.png?resize=768%2C479&ssl=1"></p>
-* copy "api_id" & "api_hash" ( use in setup.py )
 
 ## • How To Install
 
