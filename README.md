@@ -1,6 +1,6 @@
 # TeleGram-Group-Scraper
 <p align="center">
-  Telegram Scraper Tool
+  <h2>Telegram Scraper Tool</h2>
 </p>
 <p align="center"><img src="https://img.shields.io/badge/Version-1.0-brightgreen"></p>
 <p align="center">
