@@ -13,6 +13,8 @@
 </p>
 <p align="center">
   Telegram Group Scrapper
+  atlest just fuking ⭐ star ⭐ it
+  😃 to chear up sad coder 😃
 </p>
 
 ---
