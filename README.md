@@ -16,6 +16,8 @@
 </p>
 <p align="center">
   atlest just fuking ⭐ star ⭐ it
+</p>
+<p align="center">
   😃 to chear up sad coder 😃
 </p>
 
