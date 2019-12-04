@@ -38,13 +38,17 @@ www.youtube.com/theunknon
 `$ chmod +x * && python3 setup.py`
 
 * To Genrate User Data
+
 `$ python3 scrapr.py`
 
-* Send Bulk sms To Collected Data
-`$ python3 smsbot.py`
+* ( members.csv is default if you changed name use it )
+* Send Bulk sms To Collected Data 
+
+`$ python3 smsbot.py members.csv`
 
 * add users to your group
-`$ python3 add2group.py`
+
+`$ python3 add2group.py members.csv`
 
 ---
 
