@@ -16,6 +16,9 @@
 </p>
 
 ---
+## Video Tutorial will be uploded soon on
+www.youtube.com/theunknon
+
 
 ## • Setup API
 * Go to http://my.telegram.org  and log in.
@@ -34,7 +37,14 @@
 
 `$ chmod +x * && python3 setup.py`
 
-`$ python3 teleg-scrapr.py`
+* To Genrate User Data
+`$ python3 scrapr.py`
+
+* Send Bulk sms To Collected Data
+`$ python3 smsbot.py`
+
+* add users to your group
+`$ python3 add2group.py`
 
 ---
 
