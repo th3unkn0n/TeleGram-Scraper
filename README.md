@@ -22,8 +22,8 @@
 </p>
 
 ---
-## Video Tutorial will be uploded soon on
-www.youtube.com/theunknon
+## How To Install & Use In Termux
+https://youtu.be/I8oR9tuYyrU
 
 
 ## • Setup API
@@ -31,7 +31,6 @@ www.youtube.com/theunknon
 * Click on API development tools and fill the required fields.
 * put app name you want & select other in platform Example :
 * copy "api_id" & "api_hash" after clicking create app ( will be used in setup.py )
-<p><img src="https://i1.wp.com/python.gotrained.com/wp-content/uploads/2019/01/desc.png?resize=768%2C479&ssl=1"></p>
 
 ## • How To Install
 
@@ -52,7 +51,7 @@ www.youtube.com/theunknon
 
 `$ python3 smsbot.py members.csv`
 
-* add users to your group
+* add users to your group ( in devlopment )
 
 `$ python3 add2group.py members.csv`
 
@@ -68,7 +67,7 @@ www.youtube.com/theunknon
   <a href="https://github.com/th3unkn0n">
     <img src="https://www.iconsdb.com/icons/preview/black/github-9-xxl.png" width="40" height="40">
   </a>
-  <a href="https://instagram.com/th3unknon">
+  <a href="https://instagram.com/th3unkn0n">
     <img src="https://www.iconsdb.com/icons/preview/black/instagram-4-xxl.png" width="40" height="40">
   </a>
 </p>
