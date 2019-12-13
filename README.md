@@ -40,9 +40,10 @@ https://youtu.be/I8oR9tuYyrU
 
 `$ cd TeleGram-Scraper`
 
-* To List all options
+* Install requierments ( use -h to list all options )
 
-`$ python3 setup.py -h`
+`$ python3 setup.py -i
+$ python3 setup.py -c`
 
 * To Genrate User Data
 
