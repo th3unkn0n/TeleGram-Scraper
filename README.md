@@ -22,11 +22,11 @@
 </p>
 
 ---
-## How To Install & Use In Termux
+## • How To Install & Setup API ( Termux )
 https://youtu.be/I8oR9tuYyrU
 
 
-## • Setup API
+## • API Setup
 * Go to http://my.telegram.org  and log in.
 * Click on API development tools and fill the required fields.
 * put app name you want & select other in platform Example :
