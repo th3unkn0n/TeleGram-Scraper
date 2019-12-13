@@ -40,7 +40,9 @@ https://youtu.be/I8oR9tuYyrU
 
 `$ cd TeleGram-Scraper`
 
-`$ chmod +x * && python3 setup.py`
+* To List all options
+
+`$ python3 setup.py -h`
 
 * To Genrate User Data
 
