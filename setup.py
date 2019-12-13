@@ -30,7 +30,7 @@ def requirements():
 		touch config.data
 		""")
 	banner()
-	print(gr+"[+] requierments Installed.")
+	print(gr+"[+] requierments Installed.\n")
 
 
 def config_setup():
