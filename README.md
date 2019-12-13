@@ -32,7 +32,7 @@ https://youtu.be/I8oR9tuYyrU
 * put app name you want & select other in platform Example :
 * copy "api_id" & "api_hash" after clicking create app ( will be used in setup.py )
 
-## • How To Install
+## • How To Install and Use
 
 `$ pkg install -y git python`
 
@@ -40,9 +40,11 @@ https://youtu.be/I8oR9tuYyrU
 
 `$ cd TeleGram-Scraper`
 
-* Install requierments ( use -h to list all options )
+* Install requierments
 
 `$ python3 setup.py -i`
+
+* setup configration file ( apiID, apiHASH )
 
 `$ python3 setup.py -c`
 
@@ -58,6 +60,10 @@ https://youtu.be/I8oR9tuYyrU
 * add users to your group ( in devlopment )
 
 `$ python3 add2group.py members.csv`
+
+* Update Tool
+
+`$ python3 setup.py -u`
 
 ---
 
