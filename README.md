@@ -43,6 +43,7 @@ https://youtu.be/I8oR9tuYyrU
 * Install requierments ( use -h to list all options )
 
 `$ python3 setup.py -i`
+
 `$ python3 setup.py -c`
 
 * To Genrate User Data
