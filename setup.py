@@ -12,10 +12,6 @@ gr="\033[1;32m"
 cy="\033[1;36m"
 
 import os, sys
-import configparser
-import requests as r
-import pandas as pd
-
 
 def banner():
 	os.system('clear')
@@ -38,6 +34,7 @@ def requirements():
 
 
 def config_setup():
+	import configparser
 	banner()
 	cpass = configparser.RawConfigParser()
 	cpass.add_section('cred')
@@ -54,6 +51,8 @@ def config_setup():
 	print(gr+"[+] how to use : ")
 
 def merge_csv():
+	import pandas as pd
+	import sys
 	banner()
 	file1 = pd.read_csv(sys.argv[2])
 	file2 = pd.read_csv(sys.argv[3])
@@ -64,6 +63,7 @@ def merge_csv():
 	print(gr+'['+cy+'+'+gr+']'+cy+' saved file as "output.csv"\n')
 
 def update_tool():
+	import requests as r
 	banner()
 	source = r.get("https://raw.githubusercontent.com/th3unkn0n/TeleGram-Scraper/master/.image/.version")
 	if source.text == '3':
