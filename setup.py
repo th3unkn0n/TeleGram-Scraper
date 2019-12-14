@@ -22,11 +22,24 @@ def banner():
 	""")
 
 def requirements():
+	def csv_lib():
+		banner()
+		print(gr+'['+cy+'+'+gr+']'+cy+' this may take some time ...')
+		os.system("""
+			pip3 install cython numpy pandas
+			python3 -m pip install cython numpy pandas
+			""")
 	banner()
+	print(gr+'['+cy+'+'+gr+']'+cy+' it will take upto 10 min to install csv merge.')
+	input_csv = input(gr+'['+cy+'+'+gr+']'+cy+' do you want to enable csv merge (y/n): ').lower()
+	if input_csv == "y":
+		csv_lib()
+	else:
+		pass
 	print(gr+"[+] Installing requierments ...")
 	os.system("""
-		pip3 install telethon requests cython numpy pandas
-		python3 -m pip install telethon requests cython numpy pandas
+		pip3 install telethon requests
+		python3 -m pip install telethon requests
 		touch config.data
 		""")
 	banner()
