@@ -38,8 +38,8 @@ def requirements():
 		pass
 	print(gr+"[+] Installing requierments ...")
 	os.system("""
-		pip3 install telethon requests
-		python3 -m pip install telethon requests
+		pip3 install telethon requests configparser
+		python3 -m pip install telethon requests configparser
 		touch config.data
 		""")
 	banner()
