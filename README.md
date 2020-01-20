@@ -50,7 +50,7 @@ https://youtu.be/I8oR9tuYyrU
 
 * To Genrate User Data
 
-`$ python3 scrapr.py`
+`$ python3 scraper.py`
 
 * ( members.csv is default if you changed name use it )
 * Send Bulk sms To Collected Data 
