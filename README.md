@@ -67,7 +67,7 @@ https://youtu.be/I8oR9tuYyrU
 
 ---
 
-<img src="https://github.com/th3unkn0n/TeleGram-Scraper/blob/master/.image/20200124_112958.jpg">
+<img src="https://github.com/th3unkn0n/TeleGram-Scraper/blob/master/.image/20200124_113728.jpg">
 <img src="https://github.com/th3unkn0n/TeleGram-Scraper/blob/master/.image/20200124_112937.jpg">
 
 ---
