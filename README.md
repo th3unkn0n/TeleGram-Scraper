@@ -15,10 +15,7 @@
   Telegram Group Scrapper
 </p>
 <p align="center">
-  atlest just fuking ⭐ star ⭐ it
-</p>
-<p align="center">
-  😃 to chear up sad coder 😃
+  wtf, atlest just fuking ⭐ star ⭐ it
 </p>
 
 ---
@@ -84,7 +81,7 @@ https://youtu.be/xSUsy8lcimM
   <a href="https://github.com/th3unkn0n">
     <img src="https://www.iconsdb.com/icons/preview/black/github-9-xxl.png" width="40" height="40">
   </a>
-  <a href="https://instagram.com/th3unkn0n">
-    <img src="https://www.iconsdb.com/icons/preview/black/instagram-4-xxl.png" width="40" height="40">
+  <a href="https://twitter.com/th3unknon">
+    <img src="https://www.iconsdb.com/icons/preview/black/twitter-4-xxl.png" width="40" height="40">
   </a>
 </p>
