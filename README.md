@@ -23,8 +23,10 @@
 
 ---
 ## • How To Install & Setup API ( Termux )
+
 https://youtu.be/I8oR9tuYyrU
 
+https://youtu.be/xSUsy8lcimM
 
 ## • API Setup
 * Go to http://my.telegram.org  and log in.
