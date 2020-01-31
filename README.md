@@ -19,11 +19,10 @@
 </p>
 
 ---
-## • How To Install & Setup API ( Termux )
+## • How To Setup API ( video )
 
 https://youtu.be/I8oR9tuYyrU
 
-https://youtu.be/xSUsy8lcimM
 
 ## • API Setup
 * Go to http://my.telegram.org  and log in.
@@ -59,6 +58,8 @@ https://youtu.be/xSUsy8lcimM
 * add users to your group ( in devlopment )
 
 `$ python3 add2group.py members.csv`
+
+* since limitations of api lot of users getting restrictions a script will be added soon to use multiple acc at once to solve this issue.
 
 * Update Tool
 
