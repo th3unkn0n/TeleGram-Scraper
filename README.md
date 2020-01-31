@@ -59,8 +59,6 @@ https://youtu.be/I8oR9tuYyrU
 
 `$ python3 add2group.py members.csv`
 
-* since limitations of api lot of users getting restrictions a script will be added soon to use multiple acc at once to solve this issue.
-
 * Update Tool
 
 `$ python3 setup.py -u`
