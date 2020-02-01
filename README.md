@@ -55,7 +55,8 @@ https://youtu.be/I8oR9tuYyrU
 
 `$ python3 smsbot.py members.csv`
 
-* add users to your group ( in devlopment )
+* add users to your group 
+( as per api limitation 50 users a day )
 
 `$ python3 add2group.py members.csv`
 
