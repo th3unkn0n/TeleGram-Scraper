@@ -38,15 +38,15 @@ https://youtu.be/I8oR9tuYyrU
 
 `$ cd TeleGram-Scraper`
 
-* Install requierments
+* Install requirements
 
 `$ python3 setup.py -i`
 
-* setup configration file ( apiID, apiHASH )
+* setup configuration file ( apiID, apiHASH )
 
 `$ python3 setup.py -c`
 
-* To Genrate User Data
+* To Generate User Data
 
 `$ python3 scraper.py`
 
