@@ -19,10 +19,6 @@
 </p>
 
 ---
-## • How To Setup API ( video )
-
-https://youtu.be/I8oR9tuYyrU
-
 
 ## • API Setup
 * Go to http://my.telegram.org  and log in.
@@ -55,19 +51,9 @@ https://youtu.be/I8oR9tuYyrU
 
 `$ python3 smsbot.py members.csv`
 
-* add users to your group 
-( as per api limitation 50 users a day )
-
-`$ python3 add2group.py members.csv`
-
 * Update Tool
 
 `$ python3 setup.py -u`
-
----
-
-<img src="https://github.com/th3unkn0n/TeleGram-Scraper/blob/master/.image/20200124_113728.jpg">
-<img src="https://github.com/th3unkn0n/TeleGram-Scraper/blob/master/.image/20200124_112937.jpg">
 
 ---
 
