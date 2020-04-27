@@ -65,5 +65,5 @@
     <img src="https://www.iconsdb.com/icons/preview/black/youtube-4-xxl.png" width="40" height="40">
   </a>
   <a href="https://github.com/th3unkn0n">
-    <img src="https://www.iconsdb.com/icons/preview/black/instagram-xxl.png" width="40" height="40">
+    <img src="http://clipart-library.com/images_k/instagram-png-transparent/instagram-png-transparent-16.png" width="40" height="40">
 </p>
