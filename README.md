@@ -65,9 +65,5 @@
     <img src="https://www.iconsdb.com/icons/preview/black/youtube-4-xxl.png" width="40" height="40">
   </a>
   <a href="https://github.com/th3unkn0n">
-    <img src="https://www.iconsdb.com/icons/preview/black/github-9-xxl.png" width="40" height="40">
-  </a>
-  <a href="https://twitter.com/th3unkn0n">
-    <img src="https://www.iconsdb.com/icons/preview/black/twitter-4-xxl.png" width="40" height="40">
-  </a>
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.transparentpng.com%2Fcats%2Flogo-instagram-1942.html&psig=AOvVaw0D4sLspICdK1rtqXRV7mh0&ust=1588055592785000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJjilp3-h-kCFQAAAAAdAAAAABAY" width="40" height="40">
 </p>
