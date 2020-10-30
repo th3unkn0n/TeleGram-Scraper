@@ -64,6 +64,6 @@
   <a href="https://youtube.com/theunknon">
     <img src="https://github.com/th3unkn0n/extra/blob/master/.img/yt.png" width="40" height="40">
   </a>
-  <a href="https://instagram.com/th3unkn0n">
-    <img src="https://github.com/th3unkn0n/extra/blob/master/.img/ig.png" width="40" height="40">
+  <a href="https://twitter.com/th3unkn0n">
+    <img src="https://github.com/th3unkn0n/extra/blob/master/.img/tw.png" width="40" height="40">
 </p>
