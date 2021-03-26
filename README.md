@@ -15,7 +15,6 @@
   Telegram Group Scrapper
 </p>
 <p align="center">
-  wtf, atlest just fuking ⭐ star ⭐ it
 </p>
 
 ---
